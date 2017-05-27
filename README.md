@@ -35,9 +35,9 @@ These are some tips to look-up to for the collision and resolution.
 
 
 There are more animations. Only the "faintedanimation" is left to be added. I also have to make the background, which I'll do once the game is finished.
-I'm going to also add some background music, special effects and some funny special effects...that it like some kind of easter-egs, if you want to.
-The resolution is set for my laptop device (1366x768), but I made a method which puts everything in order for every other resolution (if_resolution_differs();). I set the limits of the borders, of the player and everything. 
+I'm going to also add some background music, special effects and some funny special effects...thake it like some kind of "easter-egs".
+The resolution is set for my laptop display (1366x768), but I made a method which puts everything in order for every other resolution (if_resolution_differs();). I set the limits of the borders, of the player and everything (you can play with up to 10 displays at a maximum resolution of X=10.000; totally unnecesarry). 
 All the collisions are done, with everything. There's a collision for the blocks(those in kaki) and a collision for the platform(the one in red), which is moving up and down, allowing the hero to get on top of the other blocks. 
 I have to shape the code a litlle bit to be cleaner and for the items, the inventories in which the items are going to be held, the enemies(with the animations...hooray...) ....and the second player, if I forgot to mention that. 
-In this realm, 2dAdventure has 2 players, in CO-OP mode.
+In this 2d-world, 2dAdventure has 2 players, in CO-OP mode.
 More updates soon.
