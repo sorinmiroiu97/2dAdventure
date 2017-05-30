@@ -3,7 +3,7 @@
 Welcome to 2dAdventure, 2d game made in C#. Work "still" in progress.
 
 
-![Screenshot]( 	Screenshot_1.png)
+![Screenshot]( 	printscreen.png)
 
 This is just an example of "one" of the game's levels.
 All the animations are made by me. In this picture we see our hero shooting with bullets...shaorma-bullets.
