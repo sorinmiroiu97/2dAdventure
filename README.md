@@ -42,6 +42,6 @@ I have to shape the code a litlle bit to be cleaner and for the items, the inven
 In this 2d-world, 2dAdventure has 2 players, in CO-OP mode.
 More updates soon.
 
-![Screenshot]( 	printscreen.png)
+![Screenshot]( 	prnt.png)
 
 This is the second player getting his last "shaorma".
