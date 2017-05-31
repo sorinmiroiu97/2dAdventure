@@ -4,9 +4,9 @@ Welcome to 2dAdventure, 2d game made in C#.
 
 ![Screenshot]( 	printscreen.png)
 
-This is Marcel, who has a green-twin brother called Jeff. Help Marcel collect all the flies to eat them with his shaorma bullets and help him kill his green-twin-not-really-his-brother in the co-op mode. 
+
 This is just an example of "one" of the game's levels.
-I made all the necessary animations. In this picture we see our hero shooting with bullets...shaorma-bullets.
+I made all the necessary animations for the first player (the detective in left) and for the second player (the green monster in left). In this picture we see our "hero" shooting with bullets...shaorma-bullets.
 
 
 
@@ -27,7 +27,7 @@ This is the leftcrouch's animation.
 ![Screenshot]( 	Screenshot_4.png)
 
 This is the animation for "rightwalking".
-
+There are animations for both sides (left and right) for walking, standing, jumping, crouching, shooting, shooting while standing, shooting while walking and for dying.
 
 ![Screenshot](coordinates_for_game.png)
 
@@ -47,5 +47,5 @@ In this 2d-world, 2dAdventure has 2 players, in CO-OP mode.
 This is the second player getting his last "shaorma".
 
 
-I still have to add some music and special effects, a menu and to clean the code.
+I still have to add some music and special effects, a menu and to clean the code...especially cleaning the code.
 More updates soon.
